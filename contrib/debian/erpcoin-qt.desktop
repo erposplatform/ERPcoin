@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ERPcoin Core
+Comment=ERPcoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem ERPcoin peer-to-peer Netzwerk
+Comment[fr]=ERPcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ERPcoin, eşten eşe kriptografik sanal para birimi
+Exec=erpcoin-qt %u
+Terminal=false
+Type=Application
+Icon=erpcoin128
+MimeType=x-scheme-handler/erpcoin;
+Categories=Office;Finance;

@@ -1,0 +1,6 @@
+usr/local/bin/erpcoin-qt usr/bin
+share/pixmaps/erpcoin32.xpm usr/share/pixmaps
+share/pixmaps/erpcoin16.xpm usr/share/pixmaps
+share/pixmaps/erpcoin128.png usr/share/pixmaps
+debian/erpcoin-qt.desktop usr/share/applications
+debian/erpcoin-qt.protocol usr/share/kde4/services/

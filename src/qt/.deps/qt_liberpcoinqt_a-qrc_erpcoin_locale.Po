@@ -1,0 +1,4 @@
+qt/qt_liberpcoinqt_a-qrc_erpcoin_locale.o: qt/qrc_erpcoin_locale.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
